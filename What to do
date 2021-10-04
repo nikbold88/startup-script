@@ -23,6 +23,9 @@ https://rundeck.dev.zynstra.com/project/deployments/activity
 
 ## Outlook
 # Scrape new emails
-# Open
+# Open Outlook
+import os
+os.startfile("outlook")
+
 
 
